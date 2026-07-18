@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-updated.git/static/css/main.53fd5a29.css",
-    "main.js": "/portfolio-updated.git/static/js/main.661765da.js",
+    "main.js": "/portfolio-updated.git/static/js/main.a7fd0e7b.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-updated.git/static/js/453.1407b060.chunk.js",
     "static/media/Ducan.png": "/portfolio-updated.git/static/media/Ducan.1dbf69a808a1b6670d39.png",
     "static/media/Aspire.png": "/portfolio-updated.git/static/media/Aspire.61c73cb536e419e7da51.png",
@@ -13,11 +13,11 @@
     "static/media/company2.png": "/portfolio-updated.git/static/media/company2.2476017ec3838c845bf1.png",
     "index.html": "/portfolio-updated.git/index.html",
     "main.53fd5a29.css.map": "/portfolio-updated.git/static/css/main.53fd5a29.css.map",
-    "main.661765da.js.map": "/portfolio-updated.git/static/js/main.661765da.js.map",
+    "main.a7fd0e7b.js.map": "/portfolio-updated.git/static/js/main.a7fd0e7b.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-updated.git/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53fd5a29.css",
-    "static/js/main.661765da.js"
+    "static/js/main.a7fd0e7b.js"
   ]
 }

@@ -65,7 +65,7 @@ Hello, I'm
 
 <h1 className="name">
 
-Anthony Mitchell
+Erese Ricky Jay
 
 </h1>
 
