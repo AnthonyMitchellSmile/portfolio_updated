@@ -122,7 +122,7 @@ className="resume-btn"
 
 
 onClick={()=>window.open(
-"https://drive.google.com",
+"https://drive.google.com/file/d/1FF9LupaC4wm6C1MIi9GnL6Le7OLA3D2n/view?usp=sharing",
 "_blank"
 )}
 
