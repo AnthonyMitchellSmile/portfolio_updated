@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profolio-updated/static/css/main.419f356f.css",
+    "main.js": "/profolio-updated/static/js/main.9dbd6b8c.js",
+    "static/js/453.1407b060.chunk.js": "/profolio-updated/static/js/453.1407b060.chunk.js",
+    "static/media/Ducan.png": "/profolio-updated/static/media/Ducan.1dbf69a808a1b6670d39.png",
+    "static/media/Aspire.png": "/profolio-updated/static/media/Aspire.61c73cb536e419e7da51.png",
+    "static/media/Ash.png": "/profolio-updated/static/media/Ash.cd463fa718c3b6977548.png",
+    "static/media/Telus.png": "/profolio-updated/static/media/Telus.e05d6a292dc71938e650.png",
+    "static/media/company3.png": "/profolio-updated/static/media/company3.3f8ee3eb080743bb11fd.png",
+    "static/media/company4.png": "/profolio-updated/static/media/company4.c957127c738d93348731.png",
+    "static/media/company1.png": "/profolio-updated/static/media/company1.7f748303f12a001d9aeb.png",
+    "static/media/company2.png": "/profolio-updated/static/media/company2.2476017ec3838c845bf1.png",
+    "index.html": "/profolio-updated/index.html",
+    "main.419f356f.css.map": "/profolio-updated/static/css/main.419f356f.css.map",
+    "main.9dbd6b8c.js.map": "/profolio-updated/static/js/main.9dbd6b8c.js.map",
+    "453.1407b060.chunk.js.map": "/profolio-updated/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419f356f.css",
+    "static/js/main.9dbd6b8c.js"
+  ]
+}

@@ -1,0 +1,189 @@
+import "./main2.css";
+
+import {motion} from "framer-motion";
+
+
+const Main = () => {
+
+
+return (
+
+<motion.section
+
+
+className="Main"
+
+id="mainy"
+
+
+variants={{
+
+hidden:{
+opacity:0,
+y:50
+},
+
+visible:{
+opacity:1,
+y:0
+}
+
+}}
+
+
+initial="hidden"
+
+animate="visible"
+
+
+transition={{
+
+duration:1.2
+
+}}
+
+
+>
+
+
+<div className="main-container">
+
+
+
+<div className="main-left">
+
+
+
+<p className="hello">
+
+Hello, I'm
+
+</p>
+
+
+
+
+<h1 className="name">
+
+Anthony Mitchell
+
+</h1>
+
+
+
+
+
+<h2 className="role">
+
+Full Stack Software Engineer
+
+</h2>
+
+
+
+
+
+<p className="description">
+
+
+Building scalable web applications,
+AI-powered solutions, cloud platforms,
+and modern user experiences.
+
+
+</p>
+
+
+
+
+
+<div className="main-buttons">
+
+
+<a href="mailto:anthonymitchel.dev.smile@gmail.com">
+
+
+<button className="email-btn">
+
+Contact Me
+
+</button>
+
+
+</a>
+
+
+
+
+<button
+
+
+className="resume-btn"
+
+
+onClick={()=>window.open(
+"https://drive.google.com",
+"_blank"
+)}
+
+
+>
+
+
+Resume
+
+
+</button>
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div className="main-right">
+
+
+
+<div className="orb">
+
+
+
+<div className="inner-orb">
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</motion.section>
+
+
+);
+
+
+};
+
+
+export default Main;
