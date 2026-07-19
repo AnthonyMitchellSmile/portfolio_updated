@@ -1,7 +1,5 @@
 import {motion} from "framer-motion";
-
 import CareerButton from "./CareerButton";
-
 
 
 export default function CareerCard({
@@ -13,87 +11,61 @@ index
 }){
 
 
-const side =
-
-index%2===0
-
-?
-
-"left"
-
-:
-
-"right";
-
-
-
-
 return(
-
 
 <motion.article
 
-
-className={`career-item ${side}`}
-
+className={`career-item ${
+index%2===0?"left":"right"
+}`}
 
 
 initial={{
 
 opacity:0,
 
-y:120,
-
-x:0
+y:80
 
 }}
-
 
 
 whileInView={{
 
 opacity:1,
 
-y:0,
-
-x:0
+y:0
 
 }}
 
 
 viewport={{
 
-amount:.3
+once:true,
+
+amount:.2
 
 }}
-
 
 
 transition={{
 
-duration:.9
+duration:.8
 
 }}
-
 
 
 >
 
 
-
 <div className="career-date">
 
-
 {data.id}
-
 
 </div>
 
 
 
-
-
-<div className="career-card">
+<div className="career-box">
 
 
 <h2>
@@ -112,16 +84,13 @@ duration:.9
 
 
 
-
 <CareerButton
 
 image={data.image}
 
 url={data.url}
 
-
 />
-
 
 
 </div>
@@ -130,8 +99,6 @@ url={data.url}
 
 </motion.article>
 
-
 )
-
 
 }

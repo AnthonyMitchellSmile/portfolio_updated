@@ -13,7 +13,7 @@ import {experiences} from "./experienceData";
 export default function Experience(){
 
 
-return (
+return(
 
 <section
 
@@ -31,21 +31,31 @@ className="experience"
 <motion.h1
 
 initial={{
+
 opacity:0,
-y:-80
+
+y:-50
+
 }}
 
 whileInView={{
+
 opacity:1,
+
 y:0
+
 }}
 
 transition={{
-duration:1
+
+duration:.8
+
 }}
 
 viewport={{
+
 once:true
+
 }}
 
 >
@@ -67,9 +77,7 @@ Experience
 
 {
 
-experiences.map(
-
-(item,index)=>(
+experiences.map((item,index)=>(
 
 
 <CareerCard
@@ -84,11 +92,10 @@ index={index}
 />
 
 
-)
-
-)
+))
 
 }
+
 
 
 </div>

@@ -20,19 +20,14 @@ onClick={()=>window.open(url,"_blank")}
 
 <img
 
-// className="career-logo"
-
 src={image}
 
-alt="company"
-
-loading="lazy"
+alt="company logo"
 
 />
 
 
 </button>
-
 
 )
 
