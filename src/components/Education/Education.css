@@ -880,7 +880,7 @@ MOBILE
 
 padding:
 
-70px 20px;
+100px 20px;
 
 
 }
@@ -977,7 +977,7 @@ height:16px;
 .degree-content{
 
 
-width:100%;
+width:80%;
 
 
 
@@ -1123,8 +1123,8 @@ height:13px;
 
 .degree-content{
 
-
-padding:18px;
+width:80%;
+padding:25px;
 
 
 }

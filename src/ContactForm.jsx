@@ -209,9 +209,9 @@ Let's build something amazing together.
 <FontAwesomeIcon icon={faEnvelope}/>
 
 
-<a href="mailto:kys.ismile@gmail.com">
+<a href="mailto:rickyjay.bruce@gmail.com">
 
-kys.ismile@gmail.com
+rickyjay.bruce@gmail.com
 
 </a>
 

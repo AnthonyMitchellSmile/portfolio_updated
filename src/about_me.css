@@ -442,7 +442,7 @@ transition:.5s;
 
 transform:
 
-translateY(-15px) scale(1.05);
+translateY(-1px) scale(1.05);
 
 
 
@@ -648,7 +648,7 @@ min-height:100vh;
 height:auto;
 
 
-padding:60px 35px;
+padding:140px 35px;
 
 
 }
@@ -670,7 +670,7 @@ flex-direction:column;
 .about-visual{
 
 
-width:100%;
+width:90%;
 
 
 max-width:100%;
@@ -699,7 +699,7 @@ MOBILE
 .about-section{
 
 
-padding:40px 20px;
+padding:100px 20px;
 
 
 }
@@ -738,8 +738,8 @@ min-height:300px;
 
 .about-card{
 
-
-width:260px;
+padding:10px;
+width:300px;
 
 
 }

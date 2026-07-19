@@ -8,7 +8,7 @@ import Main from './Main';
 import Experience from "./components/Experience/Experience";
 import Projects from './projects';
 import ContactForm from './ContactForm';
-import Hero from './components/Hero';
+// import Hero from './components/Hero';
 function App() {
   const [isLoading, setIsLoading] = useState(true); // Initial loading state
 
@@ -42,7 +42,7 @@ function App() {
       <Experience />
       <Education id="Education"/>
       <Projects id="project" />
-      <Hero/>
+      {/* <Hero/> */}
       <ContactForm id="contact" />
     </div>
     )

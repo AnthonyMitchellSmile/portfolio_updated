@@ -138,7 +138,7 @@ display:flex;
 align-items:center;
 
 
-gap:35px;
+gap:25px;
 
 
 
@@ -373,9 +373,9 @@ width:90%;
 
 .nav-links{
 
-
-gap:20px;
-
+/* padding:px; */
+gap:12px;
+/* margin-left:20px; */
 
 }
 

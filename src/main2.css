@@ -225,7 +225,7 @@ margin:
 .description{
 
 
-max-width:650px;
+max-width:800px;
 
 
 
@@ -236,7 +236,7 @@ font-family:"Poppins";
 font-size:
 
 
-clamp(16px,1.5vw,22px);
+clamp(18px,1.5vw,22px);
 
 
 
