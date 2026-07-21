@@ -3,8 +3,8 @@ import Card from "./Card";
 
 import telus from "./images/Telus.png";
 import ash from "./images/Ash.png";
-import aspire from "./images/Aspire.png";
-import duncan from "./images/Ducan.png";
+import Yoovic from "./images/Yoovic.png";
+import FIELD from "./images/FIELD.png";
 
 import "./Projects.css";
 
@@ -71,26 +71,29 @@ explore:"https://www.agebrilliantly.org/"
 
 
 {
-imageUrl:aspire,
+imageUrl:Yoovic,
 
-altText:"Aspire Philanthropy",
+altText:"Yoovic",
 
-title:"Aspire Philanthropy",
+title:"Yoovic",
 
 description:
-"A fundraising technology platform helping nonprofit organizations increase their impact through strategic solutions.",
-
+"It focuses on making commerce easier for entrepreneurs by providing tools for product listings, seller management, payments, and marketplace growth.",
 
 techitems:[
 "Tailwind CSS",
 "Redux",
 "GraphQL",
 "REST API",
-"WebSocket"
+"WebSocket",
+"Mongoose",
+"MongoDB",
+"Animation",
+"Express"
 ],
 
 
-explore:"https://www.aspirephilanthropy.com/"
+explore:"https://yoovic.ae/"
 
 },
 
@@ -98,14 +101,14 @@ explore:"https://www.aspirephilanthropy.com/"
 
 
 {
-imageUrl:duncan,
+imageUrl:FIELD,
 
-altText:"Duncan Solutions",
+altText:"FIELDASH",
 
-title:"Duncan Solutions",
+title:"FIELD & ASH",
 
 description:
-"Enterprise parking and tolling technology platform built with scalable SaaS architecture and distributed systems.",
+"Field & Ash is a Shopify-based e-commerce brand selling timeless backpacks, messenger bags, and crossbody essentials designed for daily life, work, and travel, combining minimalist design with functional style for people on the move.",
 
 
 techitems:[
@@ -113,11 +116,15 @@ techitems:[
 "Microservices",
 "Cloud",
 "Distributed Systems",
-"API Integration"
+"API Integration",
+"SEO",
+"Animation",
+"motion",
+"AI-engine"
 ],
 
 
-explore:"https://www.duncansolutions.com/"
+explore:"https://yoovic.ae"
 
 }
 
